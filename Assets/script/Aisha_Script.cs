@@ -17,6 +17,7 @@ public class Aisha_Script : MonoBehaviour
         openFrenchFries();
         openpizza();
         openjapaese();
+        Debug.log("Gendy");
     }
 
     public void openChicken()
